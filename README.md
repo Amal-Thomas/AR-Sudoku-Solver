@@ -1,5 +1,7 @@
 # AR-Sudoku-Solver
 Solving Sudoku Using Image Processing and Deep Learning
+<br>
+<br>
 Run Model.ipynb to train the model and save the model to the disk.
 <br>
 <br>
